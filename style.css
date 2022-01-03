@@ -9,6 +9,7 @@ h1{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 .orange-color{
     color: orange;
@@ -23,11 +24,16 @@ h1{
 }
 .hire-me{
     text-decoration: none;
-    color: black;
+    color: white;
     border-radius: 5px;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
-    font-family: roboto;
-    font-weight: 400;
+    font-weight: 700;
 
+}
+.Deam-part{
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(images/dream-bg.png);
+    background-position: right;
 }
